@@ -1,2 +1,2 @@
 # HackerRank
-HackerRank problems solving answers
+HackerRank problems solving, solutions which passed all test cases.
